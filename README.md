@@ -5,7 +5,7 @@ This project is an audit of Claude Sonnet 4.6 to test if it follows the Law of A
 
 ## Files in this Repository
 * `CSC 659 859 Spring 2026 - Team 4 – Team project final report.docx.pdf`: The final project report ("CSC 659 859 Spring 2026 - Team 4 – Team project final report.docx.pdf") with our complete findings.
-* `dataset.xlsx`: The data sheet (`Data_up_to_Human_Eval_judged.xlsx`) containing the prompts, model responses, and our manual scoring.
+* `prompts and response data.csv`: The data sheet (`prompts and response data.csv`) containing the prompts, model responses, and our manual scoring.
 
 ## Methodology & Results
 We used a blind-test approach with a two-round evaluation process:
